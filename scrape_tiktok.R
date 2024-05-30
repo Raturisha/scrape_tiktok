@@ -32,7 +32,6 @@ data <- data.frame(
   shares = head(shares, 5),
   stringsAsFactors = FALSE
 )
-View(data)
 
 # MONGODB
 message('Input Data to MongoDB Atlas')
