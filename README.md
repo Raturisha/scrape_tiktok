@@ -53,11 +53,11 @@ Rank TikTok adalah metrik yang mengukur tingkat popularitas dan dampak sebuah ko
 <div align="center">
 
 <p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://www.airlinequality.com/. Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+Pada project kali ini, yaitu melakukan scraping pada website https://hypeauditor.com/top-tiktok/. Situs web ini dikenal dengan nama "hypeauditor." Top 1,000 TikTok Influencers adalah daftar yang mencantumkan 1,000 akun atau pengguna TikTok yang dianggap memiliki pengaruh besar di platform tersebut. Daftar ini disusun berdasarkan berbagai faktor seperti jumlah pengikut, tingkat interaksi (seperti jumlah like, komentar, dan share), popularitas konten, dan pengaruh yang dimiliki dalam komunitas TikTok.
 </p>
 
 <p align="justify">
-Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam industri penerbangan, dan digunakan oleh penumpang serta profesional industri untuk membuat keputusan yang lebih baik terkait perjalanan udara.
+Daftar Top 1,000 TikTok Influencers sering kali diperbarui secara berkala karena dinamika cepat dari platform media sosial, di mana popularitas dan pengaruh bisa berubah dengan cepat.
 </p>
 
 </div>
@@ -68,10 +68,11 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
  <p align="justify">
       
-+ **airline ratings** meliputi kenyamanan kursi maskapai penerbangan, layanan staf kabin, hiburan dalam pesawat, katering di dalam pesawat, layanan bandara, dan harga tiket pesawat.
-+ **lounge ratings** meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
-+ **seat ratings** meliputi ruang untuk kaki pada kursi, sandaran dan lebar kursi, kenyamanan, keempukan kursi, dll.
-+ **airport ratings** meliputi kebersihan bandara, waktu tunggu, outlet/gerai pusat belanja, restoran/kafe, konektivitas wifi dan layanan staf.
++ **Followers** adalah jumlah orang yang mengikuti akun pengguna TikTok. Ini mencerminkan seberapa besar basis pengikut yang dimiliki oleh seorang pengguna.
++ **Views** adalah jumlah total tayangan atau jumlah orang yang telah melihat video yang diposting oleh pengguna TikTok. Views adalah salah satu metrik utama untuk mengukur seberapa populer atau berpotensi viral sebuah video.
++ **Likes**adalah jumlah total suka (heart) yang diberikan oleh pengguna TikTok terhadap video yang diposting. Likes menunjukkan tingkat apresiasi atau kesukaan terhadap konten tersebut.
++ **Comments** adalah jumlah total komentar yang diberikan oleh pengguna TikTok terhadap video. Komentar bisa mencakup feedback, pertanyaan, atau interaksi langsung antara pengguna dan pembuat konten.
++ **Shares** adalah jumlah total bagikan (shares) yang dilakukan oleh pengguna TikTok terhadap video tersebut. Bagikan menunjukkan seberapa banyak video tersebut dianggap layak untuk dibagikan kepada orang lain.
 </p>
 
 
