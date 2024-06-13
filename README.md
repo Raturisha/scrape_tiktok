@@ -1,6 +1,6 @@
 # scrape_tiktok
 [![scrape_tiktok](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml/badge.svg)](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml)
-  <h1><strong>Top Tiktok 2024: Scraping TikTok Influencers Dunia </strong></h1>
+  <h1><strong>Top TikTok 2024: Scraping TikTok Influencers Dunia </strong></h1>
   <p align="center" width="80%">
     <img width="60%" src="https://i.ytimg.com/vi/qBlD6FCxF8I/maxresdefault.jpg">
 </p>
@@ -31,7 +31,7 @@
 
 ## :Tiktok: Tentang
 
-**Apa itu Rank Tiktok?**
+**Apa itu Rank TikTok?**
 
 <p align="justify">
 Rank TikTok adalah metrik yang mengukur tingkat popularitas dan dampak sebuah konten atau pengguna di platform TikTok. 
@@ -47,7 +47,7 @@ Rank TikTok adalah metrik yang mengukur tingkat popularitas dan dampak sebuah ko
 ## :writing_hand: Deskripsi Project
 
 <p align="center" width="80%">
-  <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="700" height="400" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
 </p>
 
 <div align="center">
