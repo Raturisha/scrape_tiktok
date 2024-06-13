@@ -81,18 +81,27 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```mongodb
 {
-"_id":{"$oid":"66615b123e85a9bd7e082582"},
-"airline":"Shanghai Airlines",
-"score":"5",
-"total_review":"76"
+  "_id": {
+    "$oid": "66581dc55f54c8360e011b72"
+  },
+  "time_scraped": {
+    "$date": "2024-05-30T06:33:38.334Z"
+  },
+  "rank": "2",
+  "influencer": "janneksplace",
+  "followers": "4.2M",
+  "view": "44M",
+  "likes": "3.7M",
+  "comments": "35.6K",
+  "shares": "341.3K"
 }
 ```
 ## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-+ [Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
++ [TikTok Data Scraping and Visualization](https://rpubs.com/Raturisha/scrape_tiktok)
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
 ## :panda_face: Pengembang
-+ [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
++ [Ratu Risha Ulfia](https://github.com/Raturisha/) (G1501231041)
