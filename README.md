@@ -47,7 +47,7 @@ Rank TikTok adalah metrik yang mengukur tingkat popularitas dan dampak sebuah ko
 ## :writing_hand: Deskripsi Project
 
 <p align="center" width="80%">
-  <img width="700" height="400" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
+  <img width="500" height="300" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
 </p>
 
 <div align="center">
