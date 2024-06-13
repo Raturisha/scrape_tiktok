@@ -11,7 +11,7 @@
 
 <p align="center">
     
-# :world_map: Menu
+# world_map: Menu
 
 </p>
 
