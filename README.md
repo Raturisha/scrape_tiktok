@@ -11,7 +11,7 @@
 
 <p align="center">
     
-# world_map: Menu
+# :world_map: Menu
 
 </p>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-## :Tiktok: Tentang
+## Tiktok: Tentang
 
 **Apa itu Rank TikTok?**
 
