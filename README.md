@@ -40,8 +40,8 @@ Rank TikTok adalah metrik yang mengukur tingkat popularitas dan dampak sebuah ko
 
 <p align="center">
   <img width="220" height="150" src="https://techbullion.com/wp-content/uploads/2023/06/How-to-find-influencers-on-TikTok-for-your-marketing-campaign-1920x1080-1.webp">
-  <img width="220" height="150" src="https://cdn.eraspace.com/pub/media/mageplaza/blog/post/t/i/tiktok.jpg">
-  <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
+  <img width="220" height="150" src="https://imgblog.higo.id/1681105045-d.jpeg?w=1080&q=60">
+  <img width="220" height="150" src="https://images.ctfassets.net/az3stxsro5h5/7snPQW0TVLhuzCgYg1veEM/ad284ce41e30bacacfc33d07c9d512fc/May1-How_to_Get_Followers_on_TikTok-Feature-FL">
 </p>
 
 ## :writing_hand: Deskripsi Project
