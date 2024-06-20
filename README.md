@@ -1,6 +1,6 @@
 # scrape_tiktok
 [![scrape_tiktok](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml/badge.svg)](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml)
-  <h1><strong>Top TikTok 2024: Scraping TikTok Influencers Dunia </strong></h1>
+  <h1><strong>Top TikTok 2024: Scraping Hypeauditor TikTok  </strong></h1>
   <p align="center" width="80%">
     <img width="60%" src="https://i.ytimg.com/vi/qBlD6FCxF8I/maxresdefault.jpg">
 </p>
@@ -29,8 +29,13 @@
 
 </div>
 
-# :<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="60" height="60">: Tentang
+### Tentang
 
+Selamat datang di proyek saya!
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
+  </a>
+  <span>: Tentang</span>
+</div>
 **Apa itu Rank TikTok?**
 
 <p align="justify">
