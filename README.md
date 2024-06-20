@@ -30,11 +30,9 @@
 </div>
 
 ### Tentang
-
-Selamat datang di proyek saya!
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
-  </a>
-  <span>: Tentang</span>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
+  <h1 style="margin: 0;">Tentang</h1>
 </div>
 **Apa itu Rank TikTok?**
 
