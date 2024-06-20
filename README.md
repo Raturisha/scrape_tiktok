@@ -103,7 +103,7 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 + [TikTok Data Scraping and Visualization](https://rpubs.com/Raturisha/scrape_tiktok)
 
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf
 
 ## :panda_face: Pengembang
 + [Ratu Risha Ulfia](https://github.com/Raturisha/) (G1501231041)
