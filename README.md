@@ -29,7 +29,7 @@
 
 </div>
 
-# :<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="50">: Tentang
+# :<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="60" height="60">: Tentang
 
 **Apa itu Rank TikTok?**
 
