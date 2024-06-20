@@ -100,7 +100,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```
 ## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-+ [TikTok Data Scraping and Visualization](https://rpubs.com/Raturisha/scrape_tiktok)
++ [TikTok Data Scraping and Visualization](https://rpubs.com/risharatu/Scraping_Hypeauditor_TikTok)
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf
