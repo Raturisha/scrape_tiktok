@@ -29,9 +29,9 @@
 
 </div>
 
-## <a href="https://www.tiktok.com/@username" target="_blank">
+## <a href="https://www.tiktok.com/@username" target="_blank"> :Tentang
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="60" height="60">
-</a>:Tentang
+</a>
 
 **Apa itu Rank TikTok?**
 
