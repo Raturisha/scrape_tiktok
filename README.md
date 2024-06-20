@@ -30,9 +30,8 @@
 </div>
 
 ## <a href="https://www.tiktok.com/@username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30">
-</a>
-:Tentang
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="60" height="60">
+</a>:Tentang
 
 **Apa itu Rank TikTok?**
 
