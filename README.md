@@ -29,11 +29,10 @@
 
 </div>
 
-### Tentang
-<div style="display: flex; align-items: center;">
+## <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="100" height="100" style="margin-right: 10px;">
-  <h1 style="margin: 0;">Tentang</h1>
-</div>
+</div>:Tentang
+
 **Apa itu Hypeauditor TikTok?**
 
 <p align="justify">
