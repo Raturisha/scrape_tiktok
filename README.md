@@ -34,13 +34,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
 </p>
 
+## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="24" height="24" style="margin-right: 10px;"> <span>: Tentang</span> </span>
+
+
 ## <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">: Tentang
 
-## :writing_hand: Deskripsi Project
-
-<p align="center" width="80%">
-  <img width="500" height="300" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
-</p>
 
 
 **Apa itu Hypeauditor TikTok?**
