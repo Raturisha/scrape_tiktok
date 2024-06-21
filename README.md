@@ -32,7 +32,6 @@
 ## :Tiktok: Tentang
 <p style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
-  <span>: Tentang</span>
 </p>
 
 ## :writing_hand: Deskripsi Project
