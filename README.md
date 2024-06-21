@@ -29,8 +29,10 @@
 
 </div>
 
-# :![image](https://github.com/Raturisha/scrape_tiktok/assets/158243529/8e7ddd68-e32d-4f25-8acc-4924f9d22e30): Tentang
-
+# <div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
+  <span style="font-size: 24px;">: Tentang</span>
+</div>
 
 **Apa itu Hypeauditor TikTok?**
 
