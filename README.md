@@ -30,7 +30,7 @@
 </div>
 
 
-## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://www.freepnglogos.com/images/tik-tok-logo-33093.html" alt="TikTok" width="50" height="50" style="margin-right: 10px;"> <span>: Tentang</span> </span>
+## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="10" style="margin-right: 10px;"> <span>: Tentang</span> </span>
 
 
 
