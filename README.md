@@ -50,7 +50,7 @@ HypeAuditor TikTok adalah sebuah platform web yang menyediakan analitik dan mana
 ## ✍️: Deskripsi Project
 
 <p align="center" width="80%">
-  <img width="500" height="300" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
+  <img width="400" height="250" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
 </p>
 
 <div align="center">
