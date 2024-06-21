@@ -29,10 +29,6 @@
 
 </div>
 
-## :Tiktok: Tentang
-<p style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
-</p>
 
 ## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="24" height="24" style="margin-right: 10px;"> <span>: Tentang</span> </span>
 
