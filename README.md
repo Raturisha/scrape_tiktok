@@ -25,7 +25,7 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#panda_face-pengembang)
+[Pengembang](#flower-pengembang)
 
 </div>
 
@@ -47,7 +47,7 @@ HypeAuditor TikTok adalah sebuah platform web yang menyediakan analitik dan mana
   <img width="220" height="150" src="https://images.ctfassets.net/az3stxsro5h5/7snPQW0TVLhuzCgYg1veEM/ad284ce41e30bacacfc33d07c9d512fc/May1-How_to_Get_Followers_on_TikTok-Feature-FL">
 </p>
 
-## :writing_hand: Deskripsi Project
+## ✍️: Deskripsi Project
 
 <p align="center" width="80%">
   <img width="500" height="300" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
@@ -80,7 +80,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
 
 
-## :books: Dokumen
+## 📑: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```mongodb
 {
@@ -99,12 +99,12 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
   "shares": "341.3K"
 }
 ```
-## :bar_chart: Visualiasi Data Scraping
+## 📊: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 + [TikTok Data Scraping and Visualization](https://rpubs.com/risharatu/Scraping_Hypeauditor_TikTok)
 
-## :computer: PPT
+## 💻: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf
 
-## :panda_face: Pengembang
+## 🌻: Pengembang
 + [Ratu Risha Ulfia](https://github.com/Raturisha/) (G1501231041)
