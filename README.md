@@ -29,7 +29,7 @@
 
 </div>
 
-# ![image](https://github.com/Raturisha/scrape_tiktok/assets/158243529/c769e09f-b461-4171-b43e-94c3e22da09f)
+# :![image](https://github.com/Raturisha/scrape_tiktok/assets/158243529/c769e09f-b461-4171-b43e-94c3e22da09f): Tentang
 
 
 **Apa itu Hypeauditor TikTok?**
