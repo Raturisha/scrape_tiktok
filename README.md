@@ -34,6 +34,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
 </p>
 
+## <p style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="30" height="30" style="margin-right: 10px;">
+  <span style="font-size: 24px;">: Tentang</span>
+</p>
+
 ## :writing_hand: Deskripsi Project
 
 <p align="center" width="80%">
