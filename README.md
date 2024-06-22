@@ -104,7 +104,7 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 + [TikTok Data Scraping and Visualization](https://rpubs.com/risharatu/Scraping_Hypeauditor_TikTok)
 
 ## 💻: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : [PPT Scraping](https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf)
 
 ## 🌻: Pengembang
  <table>
