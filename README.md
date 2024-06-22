@@ -25,7 +25,7 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#flower-pengembang)
+[Pengembang](## 🌻: Pengembang)
 
 </div>
 
