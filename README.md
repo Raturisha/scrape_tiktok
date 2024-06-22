@@ -107,9 +107,9 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf
 
 ## 🌻: Pengembang
-+ <table>
+ <table>
   <tr>
-   <td align="center"><a href="https://github.com/Raturisha"><img src="github.com/Raturisha/scrape_tiktok/blob/main/foto%20koin.jpg" width="145px;" alt=""/><br /><sub><b>Ratu Risha Ulfia</b></sub></a><br /><a
+   <td align="center"><a href="https://github.com/Raturisha"><img src="foto koin.jpg" width="145px;" alt=""/><br /><sub><b>Ratu Risha Ulfia</b></sub></a><br /><a
 <br /><sub><b>G1501231041 </b></sub></a>
   </tr>
 </table>
