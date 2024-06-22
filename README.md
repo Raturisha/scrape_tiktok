@@ -25,15 +25,12 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](## 🌻: Pengembang)
+[Author]
 
 </div>
 
 
 ## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="18" style="margin-right: 10px;"> <span>: Tentang</span> </span>
-
-
-
 
 **Apa itu Hypeauditor TikTok?**
 
@@ -106,7 +103,7 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 ## 💻: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : [PPT Scraping](https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf)
 
-## 🌻: Pengembang
+## 🌻: Author
  <table>
   <tr>
    <td align="center"><a href="https://github.com/Raturisha"><img src="foto koin.jpg" width="145px;" alt=""/><br /><sub><b>Ratu Risha Ulfia</b></sub></a><br /><a
