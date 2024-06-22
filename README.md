@@ -25,7 +25,7 @@
 •
 [PPT Project](#computer-PPT-project)
 •
-[Pengembang](#smile-pengembang)
+[Author](#smile-pengembang)
 
 </div>
 
@@ -103,7 +103,7 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 ## :computer: PPT Project
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : [PPT Scraping](https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf)
 
-## :smile: Pengembang
+## :smile: Author
  <table>
   <tr>
    <td align="center"><a href="https://github.com/Raturisha"><img src="foto koin.jpg" width="145px;" alt=""/><br /><sub><b>Ratu Risha Ulfia</b></sub></a><br /><a
