@@ -15,17 +15,17 @@
 
 </p>
 
-[Tentang](#Tiktok-tentang)
+[Tentang](#airplane-tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
 [Dokumen](#books-dokumen)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Data Scraping Analysis](#bar_chart-data-scraping-analysis)
 •
-[PPT](#computer-PPT)
+[PPT Project](#computer-PPT-project)
 •
-[🌻Author](#flower-Author)
+[Pengembang](#smile-pengembang)
 
 </div>
 
