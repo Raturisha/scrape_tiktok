@@ -70,7 +70,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
       
 + **Followers** adalah jumlah orang yang mengikuti akun pengguna TikTok. Ini mencerminkan seberapa besar basis pengikut yang dimiliki oleh seorang pengguna.
 + **Views** adalah jumlah total tayangan atau jumlah orang yang telah melihat video yang diposting oleh pengguna TikTok. Views adalah salah satu metrik utama untuk mengukur seberapa populer atau berpotensi viral sebuah video.
-+ **Likes**adalah jumlah total suka (heart) yang diberikan oleh pengguna TikTok terhadap video yang diposting. Likes menunjukkan tingkat apresiasi atau kesukaan terhadap konten tersebut.
++ **Likes** adalah jumlah total suka (heart) yang diberikan oleh pengguna TikTok terhadap video yang diposting. Likes menunjukkan tingkat apresiasi atau kesukaan terhadap konten tersebut.
 + **Comments** adalah jumlah total komentar yang diberikan oleh pengguna TikTok terhadap video. Komentar bisa mencakup feedback, pertanyaan, atau interaksi langsung antara pengguna dan pembuat konten.
 + **Shares** adalah jumlah total bagikan (shares) yang dilakukan oleh pengguna TikTok terhadap video tersebut. Bagikan menunjukkan seberapa banyak video tersebut dianggap layak untuk dibagikan kepada orang lain.
 </p>
@@ -78,7 +78,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
 
 ## :books: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk hasil scraping Hypeauditor TikTok :
 ```mongodb
 {
   "_id": {
