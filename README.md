@@ -15,7 +15,7 @@
 
 </p>
 
-[Tentang](#airplane-tentang)
+[Tentang](#tiktok-tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
@@ -25,7 +25,7 @@
 •
 [PPT Project](#computer-PPT-project)
 •
-[Author](#smile-pengembang)
+[Author](#smile-author)
 
 </div>
 
